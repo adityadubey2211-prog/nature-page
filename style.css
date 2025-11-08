@@ -17,6 +17,7 @@
         color: #29625d;
         text-shadow:  0 0 10px #ffffff, 0 0 20px #b2fab4, 0 0 40px #81c784;
         font-weight: 800;
+        font-size: 100px;
     }
     p{
         justify-content: center;
@@ -24,6 +25,7 @@
         color: #36215e;
         text-shadow:  0 0 10px #ffffff, 0 0 20px #b2fab4, 0 0 40px #81c784;
         font-weight: 700;
+        font-size: 85px;
     }
 }
 .slideshow{
